@@ -2,7 +2,7 @@ const express = require('express');
 
 const mongoose = require('mongoose');
 
-//Include The Model Class
+//Include The Model Classs
 
 const Employee = mongoose.model('Employee');
 
